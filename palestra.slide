@@ -58,3 +58,19 @@ Instrutor na Caelum
 * Arrary, slice e map
 
 .play code/array_slice_map.go
+
+* Estrutura de controle (if)
+
+.play code/if.go
+
+* Estrutura de controle (switch)
+
+.play code/switch.go
+
+* Estrutura de repetição 1 (for)
+
+.play code/for1.go
+
+* Estrutura de repetição 2 (for)
+
+.play code/for2.go
