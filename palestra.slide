@@ -54,3 +54,7 @@ Instrutor na Caelum
 * Variáveis e Constantes
 
 .play code/var_const.go
+
+* Arrary, slice e map
+
+.play code/array_slice_map.go
