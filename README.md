@@ -1,4 +1,4 @@
-# SMS Router
+# Palestra sobre Go 
 
 ## Montando ambiente de palestra usando gotalks
 
