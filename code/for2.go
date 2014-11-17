@@ -21,5 +21,4 @@ func main() {
 	for _, v := range a {
 		fmt.Printf("Value: %d \n", v)
 	}
-
 }

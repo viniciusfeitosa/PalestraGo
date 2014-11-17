@@ -74,3 +74,17 @@ Instrutor na Caelum
 * Estrutura de repetição 2 (for)
 
 .play code/for2.go
+
+* Funções
+
+.play code/functions.go
+
+* Closure
+
+.play code/closure.go
+
+* Recursão
+
+.play code/recursao.go
+
+
