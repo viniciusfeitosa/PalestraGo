@@ -10,3 +10,11 @@ https://github.com/viniciusfeitosa
 * História do Go
 
 .image images/imagem1.jpeg _ 400
+
+* Criadores
+
+.image images/imagem2.png
+
+- Robert Griesemer (V8 JavaScript engine, Java HotSpot)
+- Rob Pike (UTF-8, Unix)
+- Ken Thompson (UTF-8, B, Unix)
