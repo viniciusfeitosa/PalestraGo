@@ -2,8 +2,18 @@ Introdução ao Go (golang)
 
 Vinicius Pacheco 
 @ViniciusPach
+vinicius.pacheco@caelum.com.br
 http://about.me/viniciusfeitosa
 https://github.com/viniciusfeitosa
+
+* @ViniciusPach
+
+.image images/eu.jpg _ 350
+
+@ViniciusPach
+vinicius.pacheco@caelum.com.br
+Analista Desenvolvedor na globo.com
+Instrutor na Caelum 
 
 * Hey ho let's Go
 
@@ -18,3 +28,29 @@ https://github.com/viniciusfeitosa
 - Robert Griesemer (V8 JavaScript engine, Java HotSpot)
 - Rob Pike (UTF-8, Unix)
 - Ken Thompson (UTF-8, B, Unix)
+
+* O Problema
+
+.image images/wrong.png
+
+- Muito código legado e difícil de ser mantido
+- O código legado era performático
+- Dificuldade de escalabilidade
+
+* O Ecossistema do Problema
+
+.image images/c++.png _ 500
+
+- C++ (Muito rápido, mas difícil de ser mantido)
+- Java (Rápido, mas ainda sim muito verboso)
+- Python (Ótima sintaxe, mas bem lento)
+
+* Sintaxe básica
+
+* Hello World
+
+.play code/hello.go
+
+* Variáveis e Constantes
+
+.play code/var_const.go
