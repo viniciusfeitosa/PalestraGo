@@ -87,4 +87,15 @@ Instrutor na Caelum
 
 .play code/recursao.go
 
+* Defer, Panic e Recover
+
+- defer: Última ação a ser executada antes do return ou fim do contexto
+- panic: Lança um erro em tempo de execução
+- recover: recupera a mensagem de panic disparada 
+
+* Defer, Panic e Recover
+
+.play code/defer_panic_recover.go
+
+
 
