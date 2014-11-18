@@ -45,6 +45,31 @@ Instrutor na Caelum
 - Java (Rápido, mas ainda sim muito verboso)
 - Python (Ótima sintaxe, mas bem lento)
 
+* Quem usa?
+
+.image images/usa1.png _ 250
+.image images/usa2.png _ 250
+.image images/usa3.png _ 250
+
+* Quem usa?
+
+- Github
+- Dropbox
+- Disqus
+- Bitly
+- Bitbucket
+- Digital Ocean
+- OUTROS...
+
+* Montando o Ambiente
+
+$ brew install go
+$ export GOPATH=$HOME/seu diretório(workspace)
+$ export GOBIN=$GOPATH/bin
+$ export PATH=$PATH:$GOBIN 
+
+obs: Dentro do workspace deve conter os diretórios bin, src, pkg
+
 * Sintaxe básica
 
 * Hello World
@@ -97,3 +122,30 @@ Instrutor na Caelum
 
 .play code/defer_panic_recover.go
 
+* Ponteiros
+
+.play code/ponteiros.go
+
+* Struct
+
+.play code/struct.go
+
+* Interfaces
+
+.play code/interfaces.go
+
+* Goroutines
+
+.play code/goroutines.go
+
+* Channels
+
+.play code/channels.go
+
+* Onde posso contiuar estudando?
+
+.link http://www.casadocodigo.com.br/products/livro-google-go
+.link https://golang.org/doc/effective_go.html
+.link http://tour.golang.org/#1
+.link https://gobyexample.com/
+.link https://groups.google.com/forum/#!forum/golang-brasil 
